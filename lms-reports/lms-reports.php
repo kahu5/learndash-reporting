@@ -8,7 +8,7 @@ Description: Custom user reports for LMS staff, with site and group computations
 Version: 0.4.201902dev
 Author: Jared Meidal
 Aurthor URI: https://github.com/kahu5
-License: GPLv2 or later
+License: GPLv3 or later
  */
  add_action('admin_menu', 'lmsreports_plugin_setup_menu');
  function lmsreports_plugin_setup_menu(){
